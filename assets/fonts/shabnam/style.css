@@ -1,0 +1,42 @@
+@font-face {
+    font-family: Shabnam;
+    src: url("../fonts/shabnam/shabnam.eot");
+    src: url("../fonts/shabnam/shabnam.eot?#iefix") format("embedded-opentype"), url("../fonts/shabnam/shabnam.woff2") format("woff2"), url("../fonts/shabnam/shabnam.woff") format("woff"), url("../fonts/shabnam/shabnam.ttf") format("truetype");
+    font-weight: normal;
+    font-display: block;
+}
+
+@font-face {
+    font-family: Shabnam;
+    src: url("../fonts/shabnam/shabnam-bold.eot");
+    src: url("../fonts/shabnam/shabnam-bold.eot?#iefix") format("embedded-opentype"), url("../fonts/shabnam/shabnam-bold.woff2") format("woff2"), url("../fonts/shabnam/shabnam-bold.woff") format("woff"), url("../fonts/shabnam/shabnam-bold.ttf") format("truetype");
+    font-weight: bold;
+    font-display: block;
+}
+
+@font-face {
+    font-family: Shabnam;
+    src: url("../fonts/shabnam/shabnam-thin.eot");
+    src: url("../fonts/shabnam/shabnam-thin.eot?#iefix") format("embedded-opentype"), url("../fonts/shabnam/shabnam-thin.woff2") format("woff2"), url("../fonts/shabnam/shabnam-thin.woff") format("woff"), url("../fonts/shabnam/shabnam-thin.ttf") format("truetype");
+    font-weight: 100;
+    font-display: block;
+}
+
+@font-face {
+    font-family: Shabnam;
+    src: url("../fonts/shabnam/shabnam-light.eot");
+    src: url("../fonts/shabnam/shabnam-light.eot?#iefix") format("embedded-opentype"), url("../fonts/shabnam/shabnam-light.woff2") format("woff2"), url("../fonts/shabnam/shabnam-light.woff") format("woff"), url("../fonts/shabnam/shabnam-light.ttf") format("truetype");
+    font-weight: 300;
+    font-display: block;
+}
+
+@font-face {
+    font-family: Shabnam;
+    src: url("../fonts/shabnam/shabnam-medium.eot");
+    src: url("../fonts/shabnam/shabnam-medium.eot?#iefix") format("embedded-opentype"), url("../fonts/shabnam/shabnam-medium.woff2") format("woff2"), url("../fonts/shabnam/shabnam-medium.woff") format("woff"), url("../fonts/shabnam/shabnam-medium.ttf") format("truetype");
+    font-weight: 500;
+    font-display: block;
+}
+* {
+    font-family: Shabnam;
+}
